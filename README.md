@@ -22,16 +22,16 @@ Because the database is still so simple, we don't need too complicated queries t
 ## Dashboard Overview
 The dasboard result:
 
-*Superstore Dashboard
-![](/images/superstore_dashboard.png)
+*Orders Summary
+![](/images/orders.png)
 
 *Transaction Summary
-![](/images/overview_data.png)
+![](/images/transaction.png)
 
 *Additional Info
-![](/images/product_analysis.png)
+![](/images/addition.png)
 
-Full Interactive Dashboard : [Dashboard](https://public.tableau.com/app/profile/muhammad.zaki.fuadi/viz/Sales-DQLab/Dashboard1#1)
+Full Interactive Dashboard : [Dashboard](https://lookerstudio.google.com/reporting/697a06e3-abec-4225-a26b-3b632cfc71c2)
 
 [See All Files](https://github.com/mzfuadi97/dqlab-ecommerce.git)
 
