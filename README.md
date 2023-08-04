@@ -6,7 +6,6 @@ In this project, I will demonstrate an end-to-end data analysis project for an e
 ## Business Request & Demand Overview
 In every data analytics/business inteliigence project, there must be a business request and demand overview from the user who will take advantage of the result/output. The user request for this project can be seen as below:
 
-
 ![](/images/bisreq.png)
 
 ## Database ER Diagram
@@ -23,16 +22,16 @@ Because the database is still so simple, we don't need too complicated queries t
 ## Dashboard Overview
 The dasboard result:
 
-*Orders Summary
-![](/images/orders.png)
+*Superstore Dashboard
+![](/images/superstore_dashboard.png)
 
 *Transaction Summary
-![](/images/transaction.png)
+![](/images/overview_data.png)
 
 *Additional Info
-![](/images/addition.png)
+![](/images/product_analysis.png)
 
-Full Interactive Dashboard : [Dashboard](https://lookerstudio.google.com/reporting/697a06e3-abec-4225-a26b-3b632cfc71c2)
+Full Interactive Dashboard : [Dashboard](https://public.tableau.com/app/profile/muhammad.zaki.fuadi/viz/Sales-DQLab/Dashboard1#1)
 
 [See All Files](https://github.com/mzfuadi97/dqlab-ecommerce.git)
 
